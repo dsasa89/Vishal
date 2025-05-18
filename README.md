@@ -8,7 +8,7 @@
 <ul>
   <li>🔭 I’m currently working on web and AI projects</li>
   <li>🌱 I’m learning cloud tech, React, and ML</li>
-  <li>💬 Ask me about JavaScript, Python, or Git</li>
+  <li>💬 Ask me about JavaScript, Python, or Git and More..</li>
   <li>📫 Reach me at: vishalgehlot25941@gmail.com</li>
 </ul>
 
