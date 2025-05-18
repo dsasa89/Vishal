@@ -1,4 +1,16 @@
-<h2 align="left">Hey, I'm Vishal.  Computer Science student | Passionate about coding, algorithms, and building smart solutions. Web Development & Open Source Projects.</h2>
+<h2 align="left">Hey there 👋, I'm Vishal</h2>
+<p align="left">🎓 Computer Science student | 💻 Passionate about coding, algorithms, and smart solutions<br>
+🌐 Web Development | 🧠 Machine Learning | 🤝 Open Source Enthusiast</p>
+
+###
+
+<h3 align="left">🚀 About Me</h3>
+<ul>
+  <li>🔭 I’m currently working on web and AI projects</li>
+  <li>🌱 I’m learning cloud tech, React, and ML</li>
+  <li>💬 Ask me about JavaScript, Python, or Git</li>
+  <li>📫 Reach me at: vishalgehlot25941@gmail.com</li>
+</ul>
 
 ###
 
@@ -9,7 +21,16 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsasa89&theme=dracula&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=dsasa89&style=flat-square&color=blue" alt=""/>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dsasa89&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ###
 
@@ -30,9 +51,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
   <img width="12" />
@@ -54,25 +75,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dsasa89/dsasa89/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dsasa89/count.svg?"  />
-</div>
-
-###
 
