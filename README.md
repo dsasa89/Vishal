@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Vishal. 💻 Computer Science student | Passionate about coding, algorithms, and building smart solutions.<br>🚀 Exploring Machine Learning, Web Development & Open Source Projects.</h2>
+<h2 align="left">Hey, I'm Vishal.  Computer Science student | Passionate about coding, algorithms, and building smart solutions. Web Development & Open Source Projects.</h2>
 
 ###
 
